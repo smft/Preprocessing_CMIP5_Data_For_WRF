@@ -5,3 +5,7 @@ Horzontal interpolation is using the bilinear method and vertical interpolation 
 
 Example Results
 
+
+![alt text](https://github.com/smft/Calculate_HSI/blob/master/5AB6C982-D902-4A04-A547-88DF614994E9.png)
+![alt text](https://github.com/smft/Calculate_HSI/blob/master/5AB6C982-D902-4A04-A547-88DF614994E9.png)
+![alt text](https://github.com/smft/Calculate_HSI/blob/master/5AB6C982-D902-4A04-A547-88DF614994E9.png)
