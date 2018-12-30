@@ -5,7 +5,11 @@ Horzontal interpolation is using the bilinear method and vertical interpolation 
 
 Example Results
 
+Results of CMCC-CM11
+![alt text](https://github.com/smft/Preprocessing_CMIP5_Data_For_WRF/blob/master/CMCC-CM11.png)
 
-![alt text](https://github.com/smft/Calculate_HSI/blob/master/5AB6C982-D902-4A04-A547-88DF614994E9.png)
-![alt text](https://github.com/smft/Calculate_HSI/blob/master/5AB6C982-D902-4A04-A547-88DF614994E9.png)
-![alt text](https://github.com/smft/Calculate_HSI/blob/master/5AB6C982-D902-4A04-A547-88DF614994E9.png)
+Results of NorESM2-M11 
+![alt text](https://github.com/smft/Preprocessing_CMIP5_Data_For_WRF/blob/master/NorESM1-M11.png)
+
+Results of IPSL-CAM=LR11
+![alt text](https://github.com/smft/Preprocessing_CMIP5_Data_For_WRF/blob/master/IPSL-CM5A-LR11.png)
